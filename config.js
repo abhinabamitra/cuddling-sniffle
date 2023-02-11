@@ -10,7 +10,7 @@ var config = {
         "You are my partner",
         "Whether the true feelings of lovesickness can be understood a little bit",
         "Dear bebe, you are my one and only",
-        "love you now and forever...",
+        "Love you now and forever...",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
